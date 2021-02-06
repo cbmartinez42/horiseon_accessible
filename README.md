@@ -28,7 +28,7 @@ If any additional issues are found, or if there are any suggestions for improvem
 
 ### <ins>Cloning</ins>
 1. From Github, select the "Code" button, choose either HTTPS or SSH as appropriate
-2. Click the copy button <img src="./assets/images/copy-button.png"> to add it to your clipboard
+2. Click the copy button <img src="./assets/images/copy-button.PNG"> to add it to your clipboard
 3. In your preferred command line (terminal, bash, etc), navigate to the folder you'd like to download the repository into
 4. Type `git clone [pasted url from clipboard]` and press enter
 5. Access the content with your code editor by either typing `code .` in your command line or by using your editor's `File > Open Folder` in your code editor menu. If only viewing in a browser, simply double click index.html to open in your default browser
@@ -48,5 +48,5 @@ These updates are covered under [GNU General Public License v3.0](./COPYING.txt)
 
 ## Screenshot below:
 
-<img src="./assets/images/horiseon-screenshot.png">
+<img src="./assets/images/horiseon-screenshot.PNG">
 
