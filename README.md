@@ -7,6 +7,11 @@ Included in this update are:
     * Changed div elements to Section and Aside for body content
     * Changed div elements to Header and Footer for appropriate elements
     * Added nav element to navigation bar
+    * Updated with new classes `article-style` and `benefit-style` to improve CSS code
+* Modified CSS code for efficiency
+    * Consolidated multiple classes under `article-style` and `benefit-style` to reduce clutter in code
+    * Made adjustments to selectors according to the new classes to ensure style applied correctly
+    * Re-arranged CSS code to flow starting with items on the left side of the site to items on the right side
 * Added attribute code to improve usability with screen readers
     * Added alt text for links in nav bar
     * Updated title info with more descriptive text
@@ -35,7 +40,13 @@ If any additional issues are found, or if there are any suggestions for improvem
 3. After downloading, open the .zip file and select "Extract All" from the top of the window that appears
 4. Access the content with your code editor by selecting `File > Open Folder` in your code editor menu. If only viewing in a browser, simply double click index.html to open in your default browser
 
+[https://cbmartinez42.github.io/horiseon_accessible/](https://cbmartinez42.github.io/horiseon_accessible/)
 
 ---
 
 These updates are covered under [GNU General Public License v3.0](./COPYING.txt)
+
+## Screenshot below:
+
+<img src="./assets/images/horiseon-screenshot.png">
+
